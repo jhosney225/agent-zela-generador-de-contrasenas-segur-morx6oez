@@ -1,0 +1,6 @@
+{
+  "name": "agent-zela-generador-de-contrasenas-segur-morx6oez",
+  "version": "1.0.0",
+  "description": "Proyecto de Zela [Gen24]: generador de contrasenas seguras con medidor de entropia",
+  "main": "index.js"
+}
